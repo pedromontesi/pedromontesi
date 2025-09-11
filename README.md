@@ -13,3 +13,5 @@
     <strong>DevOps:</strong> Linux, BSD
   </p>
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromontesi&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
