@@ -2,7 +2,7 @@
 
 <div>
   <p>
-    Sou desenvolvedor <strong>front-end</strong> com foco em <strong>React</strong>, apaixonado por criar interfaces intuitivas e experiências de usuário excepcionais.  
+    Sou desenvolvedor <strong>Full-Stack</strong> com foco em <strong>PHP</strong>, apaixonado por criar interfaces intuitivas e experiências de usuário excepcionais.  
     Além de minha experiência técnica, possuo uma sólida formação em <strong>UI/UX Design</strong>, o que me permite unir estética e funcionalidade em cada projeto.  
     Estou sempre em busca de aprimorar minhas habilidades e explorar novas tecnologias. No meu tempo livre, gosto de mexer com linguagens de sistema como Rust e C++.
   </p>
