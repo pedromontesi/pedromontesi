@@ -2,10 +2,10 @@
 
 <div>
   <p>
-    Sou desenvolvedor <strong>Full-Stack</strong> com foco em <strong>PHP</strong>, apaixonado por criar interfaces intuitivas e experiências de usuário excepcionais.  
-    Além de minha experiência técnica, possuo uma sólida formação em <strong>UI/UX Design</strong>, o que me permite unir estética e funcionalidade em cada projeto.  
-    Estou sempre em busca de aprimorar minhas habilidades e explorar novas tecnologias. No meu tempo livre, gosto de mexer com linguagens de sistema como Rust e C++.
-  </p>
+  Sou desenvolvedor <strong>Full-Stack</strong> com ênfase em <strong>PHP</strong>, apaixonado por criar aplicações completas que unem performance, design e uma excelente experiência de usuário.<br><br>
+  Tenho certificações em <strong>UI/UX Design</strong>, o que me permite alinhar estética e usabilidade em cada projeto, entregando soluções funcionais e visualmente agradáveis.<br><br>
+  Estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias. Nos meus projetos pessoais, gosto de explorar linguagens de sistema como <strong>Rust</strong> e <strong>C++</strong>, que me ajudam a expandir minha visão como desenvolvedor.
+</p>
 
   <p>
     <strong>Frontend:</strong> React, JavaScript, TypeScript, Tailwind CSS, Figma, Photoshop<br>
