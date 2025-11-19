@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,php,java,laravel,symfony,docker,mysql,linux,bsd,rust,c,cpp&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,php,java,laravel,symfony,docker,mysql,linux,rust,c,cpp&theme=light)](https://skillicons.dev)
 
 <div>
   <p>
