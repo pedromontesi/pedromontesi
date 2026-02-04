@@ -1,5 +1,5 @@
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,react,php,java,spring,laravel,symfony,docker,mysql,linux,rust,c,cpp,sass,figma,gulp&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,react,php,java,spring,laravel,symfony,docker,mysql,linux,sass,figma,gulp&theme=light)](https://skillicons.dev)
 
 🇧🇷 Português
 <div>
