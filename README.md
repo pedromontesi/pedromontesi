@@ -1,6 +1,7 @@
-🇧🇷 Português
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,ts,react,php,java,spring,laravel,symfony,docker,mysql,linux,rust,c,cpp,sass,figma,gulp&theme=light)](https://skillicons.dev)
 
+🇧🇷 Português
 <div>
   <p>
     Sou desenvolvedor <strong>Full-stack</strong>, atuando tanto no <strong>front-end</strong> quanto no <strong>back-end</strong>, com forte ênfase em <strong>PHP</strong> e no ecossistema web moderno. Tenho experiência na construção de aplicações completas, desde a modelagem de APIs e regras de negócio até interfaces performáticas e bem estruturadas, sempre buscando unir <strong>performance</strong>, <strong>design</strong> e <strong>experiência do usuário</strong>.
