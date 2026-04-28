@@ -22,7 +22,3 @@
     On the front-end, I work with <strong>React</strong>, <strong>Sass</strong>, and automation tools such as <strong>Gulp</strong>, and I use <strong>Figma</strong> to ensure strong alignment between design and development. On the back-end, I work with frameworks like <strong>Laravel</strong>, <strong>Symfony</strong>, and <strong>Spring</strong>, as well as relational databases and containerized environments using <strong>Docker</strong>.
   </p>
 </div>
-
-🇮🇹 Italiano
-
-<div> <p> Sono uno sviluppatore <strong>Full-stack</strong>, attivo sia nel <strong>front-end</strong> che nel <strong>back-end</strong>, con una forte enfasi su <strong>PHP</strong> e sull’ecosistema web moderno. Ho esperienza nello sviluppo di applicazioni complete, dalla progettazione di API e della logica di business fino a interfacce performanti e ben strutturate, cercando sempre di unire <strong>performance</strong>, <strong>design</strong> ed <strong>esperienza utente</strong>. </p> <p> Nel front-end lavoro con <strong>React</strong>, <strong>Sass</strong> e strumenti di automazione come <strong>Gulp</strong>, oltre a utilizzare <strong>Figma</strong> per garantire un forte allineamento tra sviluppo e design. Nel back-end lavoro con framework come <strong>Laravel</strong>, <strong>Symfony</strong> e <strong>Spring</strong>, oltre a database relazionali e ambienti containerizzati tramite <strong>Docker</strong>. </p> </div>
